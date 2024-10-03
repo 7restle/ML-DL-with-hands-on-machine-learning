@@ -4,7 +4,8 @@
 California Housing prices (1990)
 
 ## Machine learning pipeline
-![poster][./image1.png]
+![poster](./image1.png)
+
 This is data pipeline of project
 
 ### pipeline?
