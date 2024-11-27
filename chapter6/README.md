@@ -11,5 +11,5 @@
 측정된 지니 불순도가 0이면 모든 샘플이 같은 클래스에 속하는 상태, 더 이상 분할할 필요 없음  
 지니 불순도가 0이 아니면 분할할 수 있음, 분할은 설정해 둔 depth까지 수행  
 depth는 결정 경계의 개수에 영향을 미침  
-![결정 경계](https://github.com/7restle/ML-DL-with-hands-on-machine-learning/edit/main/chapter6/image1.png)
+![결정 경계](./image1.png)
 
